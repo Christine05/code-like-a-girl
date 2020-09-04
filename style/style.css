@@ -12,6 +12,13 @@
 }
 body
 {
-   background-color: lightblue; 
+   background-color:#F7E7BD;
+}
+h5{
+    margin-top: 55px;
+}
+.fav-img{
+    width: 60px;
+    margin-right: 14px;
 }
 
